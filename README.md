@@ -39,3 +39,11 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing](https://arxiv.org/abs/2108.11305) | ICCV 2021 | [[code](https://github.com/kimren227/CSGStumpNet)] |
 | [UV-Net: Learning from Boundary Representations](https://arxiv.org/abs/2006.10211) | CVPR 2021 | [[code](https://github.com/AutodeskAILab/UV-Net)] |
 | [BRepNet: A Topological Message Passing System for Solid Models](https://arxiv.org/abs/2104.00706) | CVPR 2021 | [[code](https://github.com/AutodeskAILab/BRepNet)] |
+
+## CAD Recognition
+
+| Papers | Venue | Links |
+|--------|-------|-------|
+| [CADTransformer: Panoptic Symbol Spotting Transformer for CAD Drawings](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_CADTransformer_Panoptic_Symbol_Spotting_Transformer_for_CAD_Drawings_CVPR_2022_paper.pdf)| CVPR 2022 | [[code](https://github.com/VITA-Group/CADTransformer)] |
+| [GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings](https://arxiv.org/abs/2201.00625) | CVPR 2022 | |
+| [FloorPlanCAD: A Large-Scale CAD Drawing Dataset for Panoptic Symbol Spotting](https://arxiv.org/abs/2105.07147) | ICCV 2021 | [[project](https://floorplancad.github.io/)] |
