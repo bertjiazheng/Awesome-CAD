@@ -18,7 +18,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [SolidGen: An Autoregressive Model for Direct B-rep Synthesis](https://arxiv.org/abs/2203.13944) | CoRR 2022 | |
 | [Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders](https://arxiv.org/abs/2112.09329) | CVPR 2022 | [[project](https://point2cyl.github.io/)] [[code](https://github.com/mikacuy/point2cyl)] |
 | [PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds](https://arxiv.org/abs/2103.02766) | ICLR 2021 | [[code](https://github.com/YujiaLiu76/PC2WF)] |
-| [PIE-NET: Parametric Inference of Point Cloud Edges](https://arxiv.org/abs/2007.04883) | NeurIPS 2020 | | [[code](https://github.com/wangxiaogang866/PIE-NET)] |
+| [PIE-NET: Parametric Inference of Point Cloud Edges](https://arxiv.org/abs/2007.04883) | NeurIPS 2020 | [[code](https://github.com/wangxiaogang866/PIE-NET)] |
 | [ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds](https://arxiv.org/abs/2003.12181) | ECCV 2020 | [[project](https://hippogriff.github.io/parsenet/)] [[code](https://github.com/Hippogriff/parsenet-codebase)] |
 | [Supervised Fitting of Geometric Primitives to 3D Point Clouds](https://arxiv.org/abs/1811.08988) | CVPR 2019 | [[code](https://github.com/lingxiaoli94/SPFN)] |
 | [CSGNet: Neural Shape Parser for Constructive Solid Geometry](https://arxiv.org/abs/1712.08290) | CVPR 2018 | [[code](https://github.com/Hippogriff/CSGNet)] |
