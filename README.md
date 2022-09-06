@@ -35,6 +35,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 | [DeepCAD: A Deep Generative Network for Computer-Aided Design Models](https://arxiv.org/abs/2105.09492) | ICCV 2021 | [[project](http://www.cs.columbia.edu/cg/deepcad/)] [[code](https://github.com/ChrisWu1997/DeepCAD)] |
 | [Engineering Sketch Generation for Computer-Aided Design](https://arxiv.org/abs/2104.09621) | CVPR Workshop 2021 | |
 | [Sketch2CAD: Sequential CAD Modeling by Sketching in Context](https://arxiv.org/abs/2009.04927) | SIGGRAPH Asia 2020 | [[project](http://geometry.cs.ucl.ac.uk/projects/2020/sketch2cad/)] [[code](https://github.com/Enigma-li/Sketch2CAD)] |
+| [PolyGen: An Autoregressive Generative Model of 3D Meshes](https://arxiv.org/abs/2002.10880) | ICML 2020 | [[code](https://github.com/deepmind/deepmind-research/blob/master/polygen/)] |
 
 ## CAD Representation
 
