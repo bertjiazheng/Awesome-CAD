@@ -14,7 +14,7 @@ A curated list of awesome scene understanding papers, inspired by [awesome-compu
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [Reconstructing Editable Prismatic CAD from Rounded Voxel Models](https://arxiv.org/abs/2209.01161) | SIGGRAPH 2022 | |
+| [Reconstructing Editable Prismatic CAD from Rounded Voxel Models](https://arxiv.org/abs/2209.01161) | SIGGRAPH Asia 2022 | |
 | ComplexGen: CAD Reconstruction by B-Rep Chain Complex Generation | SIGGRAPH 2022 | [[project](https://haopan.github.io/complexgen.html)] [[code](https://github.com/guohaoxiang/ComplexGen)] |
 | [SolidGen: An Autoregressive Model for Direct B-rep Synthesis](https://arxiv.org/abs/2203.13944) | CoRR 2022 | |
 | [Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders](https://arxiv.org/abs/2112.09329) | CVPR 2022 | [[project](https://point2cyl.github.io/)] [[code](https://github.com/mikacuy/point2cyl)] |
