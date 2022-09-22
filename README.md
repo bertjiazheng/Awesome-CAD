@@ -9,6 +9,8 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 | [Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Construction from Human Design Sequences](https://arxiv.org/abs/2010.02392) | SIGGRAPH 2021 | [[project](https://github.com/AutodeskAILab/Fusion360GalleryDataset)] |
 | [SketchGraphs: A Large-Scale Dataset for Modeling Relational Geometry in Computer-Aided Design](https://arxiv.org/abs/2007.08506) | ICML Workshop 2020 | [[project]](https://github.com/PrincetonLIPS/SketchGraphs) |
 | [ABC: A Big CAD Model Dataset For Geometric Deep Learning](https://arxiv.org/abs/1812.06216) | CVPR 2019 | [[project](https://deep-geometry.github.io/abc-dataset/)] |
+|CC3D Dataset, [PVDeconv: Point-voxel deconvolution for autoencoding cad construction in 3D](https://arxiv.org/abs/2101.04493v1) | ICIP 2020 | [[project](https://cvi2.uni.lu/cc3d-dataset/)] |
+|CC3D-Ops Dataset, [CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations](https://arxiv.org/abs/2208.10555) | 3DV 2022 | [[project](https://cvi2.uni.lu/cc3d-ops/)] |
 
 ## CAD Reconstruction
 
