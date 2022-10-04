@@ -31,6 +31,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 | Papers | Venue | Links |
 |--------|-------|-------|
 | Free2CAD: Parsing Freehand Drawings into CAD Commands | SIGGRAPH 2022 | [[project](https://geometry.cs.ucl.ac.uk/projects/2022/free2cad/)] [[code](https://github.com/Enigma-li/Free2CAD)] |
+| [SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks](https://arxiv.org/abs/2207.04632) | ICML 2022 | [[project](https://samxuxiang.github.io/skexgen)] [[code](https://github.com/samxuxiang/SkexGen)] |
 | [Vitruvion: A Generative Model of Parametric CAD Sketches](https://arxiv.org/abs/2109.14124) | ICLR 2022 | [[project]](https://lips.cs.princeton.edu/vitruvion/) [[code](https://github.com/PrincetonLIPS/vitruvion)] |
 | [JoinABLe: Learning Bottom-up Assembly of Parametric CAD Joints](https://arxiv.org/abs/2111.12772) | CVPR 2022 | [[code](https://github.com/AutodeskAILab/JoinABLe)] |
 | [SketchGen: Generating Constrained CAD Sketches](https://arxiv.org/abs/2106.02711) | NeurIPS 2021 | |
