@@ -45,7 +45,8 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations](https://arxiv.org/abs/2208.10555) | 3DV 2022 | 
+| [Self-Supervised Representation Learning for CAD](https://arxiv.org/abs/2210.10807) | CoRR 2022 | |
+| [CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations](https://arxiv.org/abs/2208.10555) | 3DV 2022 | |
 | [CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing](https://arxiv.org/abs/2108.11305) | ICCV 2021 | [[code](https://github.com/kimren227/CSGStumpNet)] |
 | [UV-Net: Learning from Boundary Representations](https://arxiv.org/abs/2006.10211) | CVPR 2021 | [[code](https://github.com/AutodeskAILab/UV-Net)] |
 | [BRepNet: A Topological Message Passing System for Solid Models](https://arxiv.org/abs/2104.00706) | CVPR 2021 | [[code](https://github.com/AutodeskAILab/BRepNet)] |
