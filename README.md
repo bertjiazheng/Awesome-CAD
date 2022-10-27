@@ -30,7 +30,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows](https://arxiv.org/pdf/2210.11603.pdf)| ACM Woodstock' 18 (2022) |  |
+| [3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows](https://arxiv.org/abs/2210.11603)| CoRR 2022 | |
 | Free2CAD: Parsing Freehand Drawings into CAD Commands | SIGGRAPH 2022 | [[project](https://geometry.cs.ucl.ac.uk/projects/2022/free2cad/)] [[code](https://github.com/Enigma-li/Free2CAD)] |
 | [SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks](https://arxiv.org/abs/2207.04632) | ICML 2022 | [[project](https://samxuxiang.github.io/skexgen)] [[code](https://github.com/samxuxiang/SkexGen)] |
 | [Vitruvion: A Generative Model of Parametric CAD Sketches](https://arxiv.org/abs/2109.14124) | ICLR 2022 | [[project]](https://lips.cs.princeton.edu/vitruvion/) [[code](https://github.com/PrincetonLIPS/vitruvion)] |
