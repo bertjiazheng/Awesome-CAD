@@ -46,6 +46,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [Discovering Design Concepts for CAD Sketches](https://arxiv.org/abs/2210.14451) | NeurIPS 2022 |[[code](https://github.com/yyuezhi/SketchConcept)] |
 | [Self-Supervised Representation Learning for CAD](https://arxiv.org/abs/2210.10807) | CoRR 2022 | |
 | [CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations](https://arxiv.org/abs/2208.10555) | 3DV 2022 | |
 | [CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing](https://arxiv.org/abs/2108.11305) | ICCV 2021 | [[code](https://github.com/kimren227/CSGStumpNet)] |
