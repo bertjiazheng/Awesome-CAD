@@ -45,7 +45,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [DualCSG: Learning Dual CSG Trees for General and Compact CAD Modeling] | CoRR 2023 | |
+| [DualCSG: Learning Dual CSG Trees for General and Compact CAD Modeling](https://arxiv.org/abs/2301.11497) | CoRR 2023 | |
 | [Discovering Design Concepts for CAD Sketches](https://arxiv.org/abs/2210.14451) | NeurIPS 2022 | [[code](https://github.com/yyuezhi/SketchConcept)] |
 | [Self-Supervised Representation Learning for CAD](https://arxiv.org/abs/2210.10807) | CoRR 2022 | |
 | [CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations](https://arxiv.org/abs/2208.10555) | 3DV 2022 | |
