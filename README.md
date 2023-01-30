@@ -24,7 +24,6 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 | [PIE-NET: Parametric Inference of Point Cloud Edges](https://arxiv.org/abs/2007.04883) | NeurIPS 2020 | [[code](https://github.com/wangxiaogang866/PIE-NET)] |
 | [ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds](https://arxiv.org/abs/2003.12181) | ECCV 2020 | [[project](https://hippogriff.github.io/parsenet/)] [[code](https://github.com/Hippogriff/parsenet-codebase)] |
 | [Supervised Fitting of Geometric Primitives to 3D Point Clouds](https://arxiv.org/abs/1811.08988) | CVPR 2019 | [[code](https://github.com/lingxiaoli94/SPFN)] |
-| [CSGNet: Neural Shape Parser for Constructive Solid Geometry](https://arxiv.org/abs/1712.08290) | CVPR 2018 | [[code](https://github.com/Hippogriff/CSGNet)] |
 
 ## CAD Generation
 
@@ -46,12 +45,14 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [DualCSG: Learning Dual CSG Trees for General and Compact CAD Modeling] | CoRR 2023 | |
 | [Discovering Design Concepts for CAD Sketches](https://arxiv.org/abs/2210.14451) | NeurIPS 2022 | [[code](https://github.com/yyuezhi/SketchConcept)] |
 | [Self-Supervised Representation Learning for CAD](https://arxiv.org/abs/2210.10807) | CoRR 2022 | |
 | [CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations](https://arxiv.org/abs/2208.10555) | 3DV 2022 | |
 | [CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing](https://arxiv.org/abs/2108.11305) | ICCV 2021 | [[code](https://github.com/kimren227/CSGStumpNet)] |
 | [UV-Net: Learning from Boundary Representations](https://arxiv.org/abs/2006.10211) | CVPR 2021 | [[code](https://github.com/AutodeskAILab/UV-Net)] |
 | [BRepNet: A Topological Message Passing System for Solid Models](https://arxiv.org/abs/2104.00706) | CVPR 2021 | [[code](https://github.com/AutodeskAILab/BRepNet)] |
+| [CSGNet: Neural Shape Parser for Constructive Solid Geometry](https://arxiv.org/abs/1712.08290) | CVPR 2018 | [[code](https://github.com/Hippogriff/CSGNet)] |
 
 ## CAD Recognition
 
