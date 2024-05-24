@@ -30,6 +30,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry]() | SIGGRAPH 2024 | [[code](https://github.com/samxuxiang/BrepGen)] |
 | [3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows](https://arxiv.org/abs/2210.11603)| CoRR 2022 | |
 | Free2CAD: Parsing Freehand Drawings into CAD Commands | SIGGRAPH 2022 | [[project](https://geometry.cs.ucl.ac.uk/projects/2022/free2cad/)] [[code](https://github.com/Enigma-li/Free2CAD)] |
 | [SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks](https://arxiv.org/abs/2207.04632) | ICML 2022 | [[project](https://samxuxiang.github.io/skexgen)] [[code](https://github.com/samxuxiang/SkexGen)] |
