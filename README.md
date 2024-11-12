@@ -19,7 +19,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 | [PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs](https://arxiv.org/abs/2308.05744) | ICCV 2023 | [[project](https://manycore-research.github.io/PlankAssembly/)] [[code](https://github.com/manycore-research/PlankAssembly/)] |
 | [SolidGen: An Autoregressive Model for Direct B-rep Synthesis](https://arxiv.org/abs/2203.13944) | TMLR 2023 | |
 | [Reconstructing Editable Prismatic CAD from Rounded Voxel Models](https://arxiv.org/abs/2209.01161) | SIGGRAPH Asia 2022 | |
-| ComplexGen: CAD Reconstruction by B-Rep Chain Complex Generation | SIGGRAPH 2022 | [[project](https://haopan.github.io/complexgen.html)] [[code](https://github.com/guohaoxiang/ComplexGen)] |
+| [ComplexGen: CAD Reconstruction by B-Rep Chain Complex Generation](https://arxiv.org/abs/2205.14573) | SIGGRAPH 2022 | [[project](https://haopan.github.io/complexgen.html)] [[code](https://github.com/guohaoxiang/ComplexGen)] |
 | [Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders](https://arxiv.org/abs/2112.09329) | CVPR 2022 | [[project](https://point2cyl.github.io/)] [[code](https://github.com/mikacuy/point2cyl)] |
 | [PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds](https://arxiv.org/abs/2103.02766) | ICLR 2021 | [[code](https://github.com/YujiaLiu76/PC2WF)] |
 | [PIE-NET: Parametric Inference of Point Cloud Edges](https://arxiv.org/abs/2007.04883) | NeurIPS 2020 | [[code](https://github.com/wangxiaogang866/PIE-NET)] |
