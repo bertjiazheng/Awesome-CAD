@@ -10,6 +10,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 | [Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Construction from Human Design Sequences](https://arxiv.org/abs/2010.02392) | SIGGRAPH 2021 | [[project](https://github.com/AutodeskAILab/Fusion360GalleryDataset)] |
 | [PVDeconv: Point-voxel deconvolution for autoencoding cad construction in 3D](https://arxiv.org/abs/2101.04493) | ICIP 2020 | [[project](https://cvi2.uni.lu/cc3d-dataset/)] |
 | [SketchGraphs: A Large-Scale Dataset for Modeling Relational Geometry in Computer-Aided Design](https://arxiv.org/abs/2007.08506) | ICML Workshop 2020 | [[project]](https://github.com/PrincetonLIPS/SketchGraphs) |
+| [A Large-scale Annotated Mechanical Components Benchmark for Classification and Retrieval Tasks with Deep Neural Networks (MCB)](https://www.cs.utexas.edu/~huangqx/mcb_benchmark.pdf) | ECCV 2020 | [[project](https://engineering.purdue.edu/cdesign/wp/a-large-scale-annotated-mechanical-components-benchmark-for-classification-and-retrieval-tasks-with-deep-neural-networks/)] |
 | [ABC: A Big CAD Model Dataset For Geometric Deep Learning](https://arxiv.org/abs/1812.06216) | CVPR 2019 | [[project](https://deep-geometry.github.io/abc-dataset/)] |
 
 ## CAD Reconstruction
@@ -30,7 +31,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [Text2CAD: Text to 3D CAD Generation via Technical Drawings](https://arxiv.org/abs/2411.06206) | CoRR 2024 | |
+| [Text2CAD: Text to 3D CAD Generation via Technical Drawings](https://arxiv.org/abs/2411.06206) | NeurIPS 2024 | [project](https://sadilkhan.github.io/text2cad-project/) |
 | [FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models](https://arxiv.org/abs/2411.05823) | CoRR 2024 | | 
 | [CadVLM: Bridging Language and Vision in the Generation of Parametric CAD Sketches](https://arxiv.org/abs/2409.17457) | NeurIPS Workshop 2024 | |
 | [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry](https://arxiv.org/abs/2401.15563) | SIGGRAPH 2024 | [[code](https://github.com/samxuxiang/BrepGen)] |
@@ -52,7 +53,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 |--------|-------|-------|
 | [DualCSG: Learning Dual CSG Trees for General and Compact CAD Modeling](https://arxiv.org/abs/2301.11497) | CoRR 2023 | |
 | [Discovering Design Concepts for CAD Sketches](https://arxiv.org/abs/2210.14451) | NeurIPS 2022 | [[code](https://github.com/yyuezhi/SketchConcept)] |
-| [Self-Supervised Representation Learning for CAD](https://arxiv.org/abs/2210.10807) | CoRR 2022 | |
+| [Self-Supervised Representation Learning for CAD](https://arxiv.org/abs/2210.10807) | CVPR 2023 | |
 | [CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations](https://arxiv.org/abs/2208.10555) | 3DV 2022 | |
 | [CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing](https://arxiv.org/abs/2108.11305) | ICCV 2021 | [[code](https://github.com/kimren227/CSGStumpNet)] |
 | [UV-Net: Learning from Boundary Representations](https://arxiv.org/abs/2006.10211) | CVPR 2021 | [[code](https://github.com/AutodeskAILab/UV-Net)] |
