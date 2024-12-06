@@ -32,6 +32,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [Don’t Mesh with Me: Generating Constructive Solid Geometry Instead of Meshes by Fine-Tuning a Code-Generation LLM](https://arxiv.org/abs/2411.15279) | CoRR 2024 | |
 | [Text2CAD: Text to 3D CAD Generation via Technical Drawings](https://arxiv.org/abs/2411.06206) | NeurIPS 2024 | [[project](https://sadilkhan.github.io/text2cad-project/)] |
 | [FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models](https://arxiv.org/abs/2411.05823) | CoRR 2024 | | 
 | [CadVLM: Bridging Language and Vision in the Generation of Parametric CAD Sketches](https://arxiv.org/abs/2409.17457) | NeurIPS Workshop 2024 | |
