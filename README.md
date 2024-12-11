@@ -66,6 +66,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [CADSpotting: Robust Panoptic Symbol Spotting on Large-Scale CAD Drawings](https://arxiv.org/abs/2412.07377) | CoRR 2024 | |
 | [Symbol as Points: Panoptic Symbol Spotting via Point-based Representation](https://arxiv.org/abs/2401.10556) | ICLR 2024 | [[code](https://github.com/nicehuster/SymPoint)] |
 | [VectorFloorSeg: Two-Stream Graph Attention Network for Vectorized Roughcast Floorplan Segmentation](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_VectorFloorSeg_Two-Stream_Graph_Attention_Network_for_Vectorized_Roughcast_Floorplan_Segmentation_CVPR_2023_paper.html) | CVPR 2023 | [[code](https://github.com/DrZiji/VecFloorSeg)] |
 | [CADTransformer: Panoptic Symbol Spotting Transformer for CAD Drawings](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_CADTransformer_Panoptic_Symbol_Spotting_Transformer_for_CAD_Drawings_CVPR_2022_paper.pdf)| CVPR 2022 | [[code](https://github.com/VITA-Group/CADTransformer)] |
