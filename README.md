@@ -18,6 +18,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach](https://arxiv.org/abs/2412.11892) | AAAI 2025 | [[project](https://manycore-research.github.io/CAD2Program/)] |
 | [PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs](https://arxiv.org/abs/2308.05744) | ICCV 2023 | [[project](https://manycore-research.github.io/PlankAssembly/)] [[code](https://github.com/manycore-research/PlankAssembly/)] |
 | [SolidGen: An Autoregressive Model for Direct B-rep Synthesis](https://arxiv.org/abs/2203.13944) | TMLR 2023 | |
 | [Reconstructing Editable Prismatic CAD from Rounded Voxel Models](https://arxiv.org/abs/2209.01161) | SIGGRAPH Asia 2022 | |
