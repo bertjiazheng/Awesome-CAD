@@ -18,6 +18,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [CAD-Recode: Reverse Engineering CAD Code from Point Clouds](https://arxiv.org/abs/2412.14042) | arXiv 2025 | |
 | [From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach](https://arxiv.org/abs/2412.11892) | AAAI 2025 | [[project](https://manycore-research.github.io/CAD2Program/)] |
 | [PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs](https://arxiv.org/abs/2308.05744) | ICCV 2023 | [[project](https://manycore-research.github.io/PlankAssembly/)] [[code](https://github.com/manycore-research/PlankAssembly/)] |
 | [SolidGen: An Autoregressive Model for Direct B-rep Synthesis](https://arxiv.org/abs/2203.13944) | TMLR 2023 | |
@@ -33,12 +34,12 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [Don’t Mesh with Me: Generating Constructive Solid Geometry Instead of Meshes by Fine-Tuning a Code-Generation LLM](https://arxiv.org/abs/2411.15279) | CoRR 2024 | |
+| [Don’t Mesh with Me: Generating Constructive Solid Geometry Instead of Meshes by Fine-Tuning a Code-Generation LLM](https://arxiv.org/abs/2411.15279) | arXiv 2024 | |
 | [Text2CAD: Text to 3D CAD Generation via Technical Drawings](https://arxiv.org/abs/2411.06206) | NeurIPS 2024 | [[project](https://sadilkhan.github.io/text2cad-project/)] |
-| [FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models](https://arxiv.org/abs/2411.05823) | CoRR 2024 | | 
+| [FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models](https://arxiv.org/abs/2411.05823) | arXiv 2024 | | 
 | [CadVLM: Bridging Language and Vision in the Generation of Parametric CAD Sketches](https://arxiv.org/abs/2409.17457) | NeurIPS Workshop 2024 | |
 | [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry](https://arxiv.org/abs/2401.15563) | SIGGRAPH 2024 | [[code](https://github.com/samxuxiang/BrepGen)] |
-| [3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows](https://arxiv.org/abs/2210.11603)| CoRR 2022 | |
+| [3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows](https://arxiv.org/abs/2210.11603)| arXiv 2022 | |
 | Free2CAD: Parsing Freehand Drawings into CAD Commands | SIGGRAPH 2022 | [[project](https://geometry.cs.ucl.ac.uk/projects/2022/free2cad/)] [[code](https://github.com/Enigma-li/Free2CAD)] |
 | [SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks](https://arxiv.org/abs/2207.04632) | ICML 2022 | [[project](https://samxuxiang.github.io/skexgen)] [[code](https://github.com/samxuxiang/SkexGen)] |
 | [Vitruvion: A Generative Model of Parametric CAD Sketches](https://arxiv.org/abs/2109.14124) | ICLR 2022 | [[project]](https://lips.cs.princeton.edu/vitruvion/) [[code](https://github.com/PrincetonLIPS/vitruvion)] |
@@ -54,7 +55,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [DualCSG: Learning Dual CSG Trees for General and Compact CAD Modeling](https://arxiv.org/abs/2301.11497) | CoRR 2023 | |
+| [DualCSG: Learning Dual CSG Trees for General and Compact CAD Modeling](https://arxiv.org/abs/2301.11497) | arXiv 2023 | |
 | [Discovering Design Concepts for CAD Sketches](https://arxiv.org/abs/2210.14451) | NeurIPS 2022 | [[code](https://github.com/yyuezhi/SketchConcept)] |
 | [Self-Supervised Representation Learning for CAD](https://arxiv.org/abs/2210.10807) | CVPR 2023 | |
 | [CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations](https://arxiv.org/abs/2208.10555) | 3DV 2022 | |
@@ -67,7 +68,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [CADSpotting: Robust Panoptic Symbol Spotting on Large-Scale CAD Drawings](https://arxiv.org/abs/2412.07377) | CoRR 2024 | |
+| [CADSpotting: Robust Panoptic Symbol Spotting on Large-Scale CAD Drawings](https://arxiv.org/abs/2412.07377) | arXiv 2024 | |
 | [Symbol as Points: Panoptic Symbol Spotting via Point-based Representation](https://arxiv.org/abs/2401.10556) | ICLR 2024 | [[code](https://github.com/nicehuster/SymPoint)] |
 | [VectorFloorSeg: Two-Stream Graph Attention Network for Vectorized Roughcast Floorplan Segmentation](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_VectorFloorSeg_Two-Stream_Graph_Attention_Network_for_Vectorized_Roughcast_Floorplan_Segmentation_CVPR_2023_paper.html) | CVPR 2023 | [[code](https://github.com/DrZiji/VecFloorSeg)] |
 | [CADTransformer: Panoptic Symbol Spotting Transformer for CAD Drawings](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_CADTransformer_Panoptic_Symbol_Spotting_Transformer_for_CAD_Drawings_CVPR_2022_paper.pdf)| CVPR 2022 | [[code](https://github.com/VITA-Group/CADTransformer)] |
