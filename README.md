@@ -39,9 +39,9 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models](https://arxiv.org/abs/2411.05823) | ICLR 2025 | | 
 | [Don’t Mesh with Me: Generating Constructive Solid Geometry Instead of Meshes by Fine-Tuning a Code-Generation LLM](https://arxiv.org/abs/2411.15279) | arXiv 2024 | |
 | [Text2CAD: Text to 3D CAD Generation via Technical Drawings](https://arxiv.org/abs/2411.06206) | NeurIPS 2024 | [[project](https://sadilkhan.github.io/text2cad-project/)] |
-| [FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models](https://arxiv.org/abs/2411.05823) | arXiv 2024 | | 
 | [CadVLM: Bridging Language and Vision in the Generation of Parametric CAD Sketches](https://arxiv.org/abs/2409.17457) | NeurIPS Workshop 2024 | |
 | [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry](https://arxiv.org/abs/2401.15563) | SIGGRAPH 2024 | [[code](https://github.com/samxuxiang/BrepGen)] |
 | [3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows](https://arxiv.org/abs/2210.11603)| arXiv 2022 | |
