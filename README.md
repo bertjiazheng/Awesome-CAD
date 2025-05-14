@@ -5,7 +5,8 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 ## Survey
 | Papers | Venue | Links |
 |--------|-------|-------|
-| [Large Language Models for Computer-Aided Design: A Survey](https://arxiv.org/abs/2505.08137) | arXiv 2025 | [project](https://github.com/lichengzhanguom/LLMs-CAD-Survey-Taxonomy) |
+| [Large Language Models for Computer-Aided Design: A Survey](https://arxiv.org/abs/2505.08137) | arXiv 2025 | [[project]](https://github.com/lichengzhanguom/LLMs-CAD-Survey-Taxonomy) |
+
 ## Datasets
 
 | Papers | Venue | Links |
@@ -39,6 +40,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [Text-to-CadQuery: A New Paradigm for CAD Generation with Scalable Large Model Capabilities](https://www.arxiv.org/abs/2505.06507) | arXiv 2025 | [[code](https://github.com/Text-to-CadQuery/Text-to-CadQuery)] |
 | [FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models](https://arxiv.org/abs/2411.05823) | ICLR 2025 | | 
 | [Don’t Mesh with Me: Generating Constructive Solid Geometry Instead of Meshes by Fine-Tuning a Code-Generation LLM](https://arxiv.org/abs/2411.15279) | arXiv 2024 | |
 | [Text2CAD: Text to 3D CAD Generation via Technical Drawings](https://arxiv.org/abs/2411.06206) | NeurIPS 2024 | [[project](https://sadilkhan.github.io/text2cad-project/)] |
