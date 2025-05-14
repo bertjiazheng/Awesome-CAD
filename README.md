@@ -2,6 +2,10 @@
 
 A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
+## Survey
+| Papers | Venue | Links |
+|--------|-------|-------|
+| [Large Language Models for Computer-Aided Design: A Survey](https://arxiv.org/abs/2505.08137) | arXiv 2025 | [project](https://github.com/lichengzhanguom/LLMs-CAD-Survey-Taxonomy) |
 ## Datasets
 
 | Papers | Venue | Links |
