@@ -5,6 +5,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 ## Survey
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [Geometric Deep Learning for Computer-Aided Design: A Survey](https://arxiv.org/abs/2402.17695) | arXiv 2025 |  |
 | [Large Language Models for Computer-Aided Design: A Survey](https://arxiv.org/abs/2505.08137) | arXiv 2025 | [[project]](https://github.com/lichengzhanguom/LLMs-CAD-Survey-Taxonomy) |
 
 ## Datasets
@@ -40,6 +41,8 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [BrepDiff: Single-stage B-rep Diffusion Model](https://drive.google.com/file/d/1ZkdjmljmbJer5Lbn55UwKRqR9AcHBydA/view) | SIGGRAPH 2025 | [[project](https://brepdiff.github.io/)] [[code](https://github.com/brepdiff/brepdiff)] |
+| [HoLa: B-Rep Generation using a Holistic Latent Representation](https://arxiv.org/abs/2504.14257) | SIGGRAPH 2025 | [[project](https://vcc.tech/research/2025/HolaBrep)] |
 | [Text-to-CadQuery: A New Paradigm for CAD Generation with Scalable Large Model Capabilities](https://www.arxiv.org/abs/2505.06507) | arXiv 2025 | [[code](https://github.com/Text-to-CadQuery/Text-to-CadQuery)] |
 | [FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models](https://arxiv.org/abs/2411.05823) | ICLR 2025 | | 
 | [Don’t Mesh with Me: Generating Constructive Solid Geometry Instead of Meshes by Fine-Tuning a Code-Generation LLM](https://arxiv.org/abs/2411.15279) | arXiv 2024 | |
