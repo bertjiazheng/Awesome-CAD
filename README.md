@@ -24,6 +24,7 @@ A curated list of awesome Computer-Aided Design (CAD) papers, inspired by [aweso
 
 | Papers | Venue | Links |
 |--------|-------|-------|
+| [BRep Boundary and Junction Detection for CAD Reverse Engineering] | | ICMI 2024 | [[project](https://skazizali.com/brepdetnet.github.io/)] [[code](https://github.com/saali14/Scan-to-BRep)] |
 | [CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs](https://arxiv.org/abs/2412.19663) | arXiv 2025 | |
 | [CAD-Recode: Reverse Engineering CAD Code from Point Clouds](https://arxiv.org/abs/2412.14042) | arXiv 2025 | |
 | [From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach](https://arxiv.org/abs/2412.11892) | AAAI 2025 | [[project](https://manycore-research.github.io/CAD2Program/)] |
